@@ -64,13 +64,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../github-oauth/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="26">
-                <caret line="1" selection-start-line="1" selection-end-line="1" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/../github-oauth/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -145,6 +142,7 @@
         <option value="$PROJECT_DIR$/../github-oauth/app/base/github.go" />
         <option value="$PROJECT_DIR$/../github-oauth/app/base/oauth.go" />
         <option value="$PROJECT_DIR$/../github-oauth/README.md" />
+        <option value="$PROJECT_DIR$/../github-oauth/.gitignore" />
       </list>
     </option>
   </component>
@@ -164,11 +162,6 @@
             <path>
               <item name="github-oauth" type="b2602c69:ProjectViewProjectNode" />
               <item name="github-oauth" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="github-oauth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github-oauth" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -416,6 +409,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../github-oauth/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="26">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../github-oauth/app/base/oauth.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
@@ -426,13 +429,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../github-oauth/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="26">
-            <caret line="1" selection-start-line="1" selection-end-line="1" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/../github-oauth/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
