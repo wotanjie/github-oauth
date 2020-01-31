@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GitHub OAuth2 Demo</title>
+</head>
+<body>
+    <script>
+        var CLIENT_ID = "{{.ClientId}}";
+        var BASE_URI = "{{.RequestUri}}";
+        var REDIRECT_URI = location.origin + '/oauth/redirect';
+        var aEl = document.createElement('a');
+        aEl.href = `${BASE_URI}?client_id=${CLIENT_ID}&redirect_uri=${REDIRECT_URI}`;
+        aEl.innerText = 'click me!!';
+        document.body.appendChild(aEl);
+    </script>
+</body>
+</html>
